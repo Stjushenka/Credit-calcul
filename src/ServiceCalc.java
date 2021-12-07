@@ -2,6 +2,7 @@ public class ServiceCalc {
     public float a;
     public float p;
     public float t;
+
     public float calculate(float a, float p, float t) {
         this.a = a;
         this.p = p;
