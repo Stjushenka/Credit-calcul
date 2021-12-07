@@ -4,7 +4,7 @@ public class Main {
         float monthPay;
         float a = 1000000f;
         float p = 9.9f;
-        float t=12f;
+        float t = 12f;
         monthPay = service.calculate(a, p, t);
         System.out.println(monthPay);
     }
